@@ -1,0 +1,7 @@
+tk
+customtkinter
+matplotlib
+scikit-image
+numpy 
+scipy
+pyFFTW 
