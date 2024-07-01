@@ -5,3 +5,5 @@ scikit-image
 numpy 
 scipy
 pyFFTW 
+tqdm
+imagecodecs
